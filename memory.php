@@ -1,6 +1,6 @@
 <?php
 if($_POST["memory"]) {
-    mail("cshall@artic.edu", "Memory Machine", $_POST["message"], "From: an@email.address");
+    mail("kli10@artic.edu", "Memory Machine", $_POST["memory"], "From: kli10@artic.edu");
         $thankYou="<p>Thank you! Your message has been sent.</p>";
 }
 ?>
