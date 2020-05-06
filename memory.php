@@ -1,7 +1,7 @@
 <?php
 if($_POST["memory"]) {
-    mail("kli10@artic.edu", "Memory Machine", $_POST["memory"], "From: kli10@artic.edu");
-        $thankYou="<p>Thank you! Your message has been sent.</p>";
+    mail("kemingli41@gmail.com", "Memory Machine", $_POST["memory"], "From: kemingli41@gmail.com");
+        $thankYou="<p>Thank you! Your memory has been sent.</p>";
 }
 ?>
 <!DOCTYPE html>
